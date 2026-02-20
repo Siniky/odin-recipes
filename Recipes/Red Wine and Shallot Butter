@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+   <a href="../index.html">Back to Home</a>
+    <head>
+      
+       <meta charset="utf-8">
+       <title>Red Wine and Shallot Butter</title>
+    </head>
+
+    <body>
+        <h1>Red Wine and Shallot Butter</h1>
+        <img src=https://b3067249.smushcdn.com/3067249/wp-content/uploads/2017/06/red-wine-shallot-butter-848x477.jpg?lossy=0&strip=1&webp=1 alt="red wine" width="300px", height="200px">
+
+        <h2>Description</h2>
+        <p>Red wine and shallot butter is a flavorful sauce that combines the richness of butter with the depth of red wine and the sweetness of shallots. This sauce is often used to enhance the taste of grilled or roasted meats, such as steak or lamb. The shallots are typically sautéed until they are soft and caramelized, then deglazed with red wine to create a rich and savory sauce. The butter is added at the end to give the sauce a smooth and velvety texture. Red wine and shallot butter is a delicious accompaniment that adds complexity and richness to any dish.</p>    
+
+    
+        <h2>Ingredients</h2>
+          <ul>
+             <li>1/4 cup finely chopped shallots</li>
+             <li>1/2 cup red wine (such as Cabernet Sauvignon or Merlot)</li>
+             <li>1/2 cup unsalted butter, cut into small pieces</li>
+             <li>Salt and pepper to taste</li>
+            </ul>
+
+        <h2>Steps</h2>
+          <ol>
+            <li>In a small saucepan, sauté the chopped shallots over medium heat until they are soft and translucent, about 5 minutes.</li>
+            <li>Add the red wine to the saucepan and bring it to a simmer. Let it cook until it has reduced by half, about 10-15 minutes.</li>
+            <li>Reduce the heat to low and whisk in the butter pieces one at a time until the sauce is smooth and creamy. Season with salt and pepper to taste.</li>
+            <li>Remove from heat and serve immediately over your favorite grilled or roasted meat. Enjoy!</li>
+          </ol>
+
+         <a href="../index.html">Back to Home</a>
+
+    </body>
+
+
+</html>

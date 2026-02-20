@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <a href="../index.html">Back to Home</a>
+    <meta charset="utf-8">
+    <title>Turkish Eggs</title>
+</head>
+
+<body>
+    <h1>Turkish Eggs</h1>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNhPGwHMmsm939M9_zrSWKvnQXhighCUku7Q&s alt="image of the Turkish eggs" width="300px", height="200px">
+    
+    <h2>Description</h2>
+    <p>Turkish Eggs, also known as "Çılbır," is a traditional Turkish dish that features poached eggs served over a bed of creamy yogurt and drizzled with a flavorful butter sauce. The dish is typically made by poaching eggs until the whites are set but the yolks remain runny. The eggs are then placed on top of a generous serving of yogurt, which is often seasoned with garlic or herbs for added flavor. The final touch is a drizzle of melted butter infused with paprika or chili flakes, which adds a rich and spicy kick to the dish. Turkish Eggs are commonly enjoyed as a breakfast or brunch option and are loved for their combination of creamy, tangy, and spicy flavors.</p>    
+
+    <h2>Ingredients</h2>
+    <ul>
+        <li>4 large eggs</li>
+        <li>1 cup plain Greek yogurt</li>
+        <li>2 cloves garlic, minced (optional)</li>
+        <li>2 tablespoons unsalted butter</li>
+        <li>1 teaspoon paprika or chili flakes</li>
+        <li>Salt and pepper to taste</li>
+    </ul>
+
+    <h2>Steps</h2>
+    <ol>
+        <li>In a small bowl, mix the Greek yogurt with minced garlic (if using) and season with salt and pepper. Set aside.</li>
+        <li>Fill a large saucepan with water and bring it to a gentle simmer. Add a splash of vinegar to help the eggs hold their shape.</li>
+        <li>Crack each egg into a small bowl or ramekin. Gently slide the eggs into the simmering water one at a time. Poach the eggs for about 3-4 minutes, or until the whites are set but the yolks are still runny.</li>
+        <li>While the eggs are poaching, melt the butter in a small saucepan over medium heat. Add paprika or
+        <li>chili flakes to the melted butter and stir to combine. Remove from heat.</li>
+        <li>To serve, spread a generous amount of the seasoned yogurt on a plate. Place the poached eggs on top of the yogurt and drizzle with the paprika-infused butter. Garnish with additional salt, pepper, or herbs if desired. Enjoy!</li>   
+     </ol>
+</body>
+
+<a href="../index.html">Back to Home</a>
+</html>
